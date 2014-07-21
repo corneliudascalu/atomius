@@ -2,4 +2,4 @@ name: Atomius
 description: A sample web application
 dependencies:
   browser: any
-  stagexl: any
+  dartrocket: any
